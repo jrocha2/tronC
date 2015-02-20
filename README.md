@@ -1,3 +1,3 @@
 # tronC
 
-![Demo](http://i.imgur.com/zMKfUny.gifv)
+![Alt text](/../gifs/tronM.gif?raw=true)
