@@ -1,3 +1,7 @@
 # tronC
+by John Rocha and Paul Dowling  
+CSE 20211 - December 2014
 
-![Alt text](/../gifs/tronM.gif?raw=true)
+
+
+![Demo](gifs/tronM.gif?raw=true)
